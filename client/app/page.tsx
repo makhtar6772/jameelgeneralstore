@@ -10,7 +10,7 @@ import {
   BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid 
 } from 'recharts';
 
-const API = "http://localhost:5000";
+const API = "https://jameelgeneralstore.onrender.com";
 
 // ============================================================================
 // 1. UI HELPER COMPONENTS
